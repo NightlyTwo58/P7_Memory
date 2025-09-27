@@ -1,0 +1,24 @@
+
+Display Area:
+
+Show random messages on a scrolling wheel.
+
+Should include messages, with date.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Restrictive UI:
+
+Fullscreen window with no close buttons.
+
+Cursor set to message input box permenantly.
+
+Clear “Press ENTER to submit” instructions.
+
+Specific admin keystroke to exit.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Moderation:
+
+Simple profanity filter, checking against known list.
+
+Ability for admin to remove messages.
